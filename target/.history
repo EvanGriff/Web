@@ -1,0 +1,14 @@
+run
+compile
+clean
+exit
+run
+sbt
+run
+sbt
+reun
+sbt
+exit
+run
+exit
+run
